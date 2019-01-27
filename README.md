@@ -11,6 +11,7 @@
 
   html  css(sass, bootstrap) , js(vue.js, jQuery) , PHP ( laravel)
   Java  ,C#
+  <br>
    sinon a part ca : j'ai un peu touché du angular , ionic ^python ,C , assembleur
 
    Voila, ce dépot  concerne toute personne , etudiant a ICT et desirant, ameliorer son niveau en programmation.
@@ -20,6 +21,7 @@
 
 je partage désormais ma  passion en faisans des vidéo  , sur YouTube  , ma derniere vidéo ^^ 
 En dehors de la programmation, j'suis aussi pianiste!!  , ca m'aide des fois ..
+<br>
 ##Youtube <a href="https://www.youtube.com/channel/UCNYGX422brt1H41aded1bTA/featured?sub_confirmation=1">theProgrammer Youtube</a>
 
 
