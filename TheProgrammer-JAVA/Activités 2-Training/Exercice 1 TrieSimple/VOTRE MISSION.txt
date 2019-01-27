@@ -1,0 +1,14 @@
+VOTRE MISSION
+
+OUps!! TheProgrammer , le pauvre !!
+
+Alors !! TheProgrammer  , pendant, la redaction d'un programme java
+A été agressé , a plein chez ,lui, ca fait Deux jours, qu'il est introuvable!!(le pauvre)
+TheProgrammer avant son aggression, a laissé des commentaires, bien faits dans le code!!(il est comme ca xd)
+
+vous ete appelé a completer la fonction   ""AfficherValeurTab"" et la fonction ""Retirer"""
+
+Vous avez 72h!!  pour un prix de 200 Euros!!
+
+NB : Bien lire les consignes laissé par TheProgrammer, dans les fonctions en question
+C'est partie 

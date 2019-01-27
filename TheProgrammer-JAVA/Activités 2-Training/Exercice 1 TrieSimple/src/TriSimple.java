@@ -124,74 +124,80 @@ public class TriSimple {
 	
 	public void retirer(int entier) {
 		
+		//completer cette fonction
+		
+		/*
+		 * Information neccessaire :
+		 * 
+		 * entier= entier entré par l'utilisateur
+		 * 
+		 * vous pouvez acceder au tableau a l'aide de ""this.tab""
+		 * 
+		 * this.lastValueTab= derniere valeur du tableau
+		 * this.numberInsertTab = nombre d'element inseré dans le tableau
+		 * 
+		 * 
+		 */	
+		//parcours du tableau
+		
 		for (int i = 0; i < this.tab.length; i++) {
 			
-			
+			//si on a trouvé un element egale a "entier""
 			if (this.tab[i]==entier) {
 				
-				for (int j = i; j <=this.numberInsertTab; j++) {
-//					System.out.println("j= "+ 5+ " et numerfinal = " + this.numberInsertTab);
-					this.tab[j]=this.tab[j+1];
-					
-				}
+				//on sais que this.tab[i] == entier
+				//et donc on connais sa position qui es  """i""" dans le tableau
+				//votre mission es de trouver un moyen  de retirer entier du tableau 
+				//ensuite d'afficher les valeurs du tableau
 				
-				this.afficheValeurTab(this.lastValueTab,entier,1);
-				return ;
-			}
-		}
-		
-	
-		
-		
-		
-	}
-	
-     private void afficheValeurTab (int endValue, int entier,int retirer) {
-		
-		
-		System.out.println("Nous avons retire" + entier+ " Affichage des valeur finale du tab");
-		for (int j : this.tab) {
+			  
+				
+				//a completer 
+				
 			
-			//si on es a la derniere valeur
-			if (j==endValue) {
-				System.out.print(j + "");
-				System.out.println();
-
 				return;
-				
 			}
-			System.out.print(j + "");
-			
 		}
-		//on va a la ligne
-		System.out.println();
 		
-		System.out.println();
+	
+		
+		
+		
 	}
 	
+	
+	
+	
+	
+	
+     //affichage des valeur, quand il y'a ajout d'un element
 	private void afficheValeurTab (int endValue, int entier) {
 		
 		
-		System.out.println("insertion de " + entier+ " Affichage des valeur finale du tab");
-		for (int j : this.tab) {
-			
-			//si on es a la derniere valeur
-			if (j==endValue) {
-				System.out.print(j + " ");
-				System.out.println();
-
-				return;
-				
-			}
-			System.out.print(j + " ");
-			
-		}
-		//on va a la ligne
-		System.out.println();
-		System.out.println();
+		// TAF ::    completer cette fonction
+		
+	
+		
+		/* INFORMATION NECESSAIRES : 
+		 * 
+		 * endValue= "derniere valeur du tableau
+		 * entier = l'entier entré par l'utilisateur
+		 * 
+		 * 
+		 * vous pouvez acceder au tableau a l'aide de  ""this.tab""
+		 */
+		
 	}
 	
-	
+	//affichage des valeur quand l'element est retiré
+	private void afficheValeurTab (int endValue, int entier,int retirer) {
+		
+		
+		System.out.println("Nous avons retire" + entier+ " Affichage des valeur finale du tab");
+		
+		//completer
+		
+	}
 	
 	
 	
